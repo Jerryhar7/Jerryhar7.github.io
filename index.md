@@ -1,18 +1,21 @@
 ---
 layout: default
 ---
+Portafolio elaborado en el curso **Python aplicado a la ingeniería estructural**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
+Les presentaré mis proyectos elaborados y compartidos.
+[Facebook](https://www.facebook.com/profile.php?id=100005592257233).
+[Instagram](https://www.instagram.com/jportillaarias/).
+[Tik tok](https://www.tiktok.com/es/).
+[LinKedin](https://www.linkedin.com/in/jerry-tancaillo-arias-33898b254/).
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Registros sísmicos
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+![Registro sísmico Ica]()
 
 ## Header 2
 
