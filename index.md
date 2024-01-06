@@ -1,29 +1,43 @@
 ---
 layout: default
 ---
-Portafolio elaborado en el curso **Python aplicado a la ingeniería estructural**
+---
+# *Portafolio de* ***Python aplicado a la ingeniería estructural***
+---
+En el presente portafolio web comparto trabajos como:
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. 
-Les presentaré mis proyectos elaborados y compartidos.
+1. Lectura de registros sísmicos y procesamiento
+  1.1. Procesamiento de espectros de pseudo acelración, pseudo velocidad y pseudoa desplazamiento
+
+1. Análisis tiempo historia 
+  1.1. Análisis tiempo historia de Pseudo aceleraciones
+  1.1.Análisis tiempo historia de pseudo velocidades
+  1.1.Análisis tiempo historia de pseudo desplazamientos
+
 [Facebook](https://www.facebook.com/profile.php?id=100005592257233).
+
 [Instagram](https://www.instagram.com/jportillaarias/).
-[Tik tok](https://www.tiktok.com/es/).
+
+[Tik tok](https://www.tiktok.com/@jerry_har7).
+
 [LinKedin](https://www.linkedin.com/in/jerry-tancaillo-arias-33898b254/).
 
 
 # Registros sísmicos
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Registro sísmico y corrección del registro por el método de la Linea base.
 
-![Registro sísmico Ica]()
+![Registro sísmico Ica](assets\img\aceleraciones2.png)
 
-## Header 2
+## Apuntes del pre-procesamiento del registro sísmico
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Para el desarrollo del cálculo de las mayores pseudo respuestas, existenn diferentes métodos de análisis para e desarrollo del procesamiento para obtener los análisis historia tiempo y el análisis espectral.
 
-### Header 3
+En la figura n°2 se muestra el ouput del procesamiento después del análisis por el método de Newmark.
+
+
+
+### APUNTES ESTRUCTURALES
 
 ```js
 // Javascript code with syntax highlighting.
